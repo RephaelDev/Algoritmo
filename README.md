@@ -1,1 +1,1 @@
-# l-gicaDeProgama-o
+# lógicaDeProgama-o
